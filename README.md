@@ -7,6 +7,13 @@ Players try to guess letters of a word based on selected categories, with real-t
 
 ## 🔍 Preview
 
+![Guess The Name Game Preview](src/componnents/GuessTheNameGame/assets/gameImage.png)
+
+
+---
+
+## 🚀 Features
+
 - Select a word category (English or Persian)  
 - Guess letters with instant feedback  
 - Correct letters turn green, wrong letters appear in red  
@@ -14,20 +21,8 @@ Players try to guess letters of a word based on selected categories, with real-t
 - Background music with mute/unmute option  
 - Win and loss sound effects  
 - Responsive and visually appealing UI with Tailwind CSS  
-- Subtle animations for correct and wrong letters  
-
----
-
-## 🚀 Features
-
-- Category selection  
-- Word guessing with live feedback  
-- Correct letters reveal dynamically  
-- Wrong letters displayed separately  
-- Background music and sound effects  
-- Subtle animations for letter interaction  
-- Responsive design using Tailwind CSS  
-
+- Subtle animations for correct and wrong letters
+  
 ---
 
 ## 🧠 Technologies Used
